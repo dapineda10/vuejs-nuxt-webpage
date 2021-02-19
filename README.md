@@ -5,6 +5,7 @@ Frontend de página web en nuxtjs con formulario para enviar correo, botón para
 
 ```bash
 # install dependencies
+$npm add nuxt
 $ npm install
 
 # serve with hot reload at localhost:3000
